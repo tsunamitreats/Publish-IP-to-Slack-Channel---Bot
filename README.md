@@ -1,6 +1,6 @@
 # publishIPtoSlack
 Get public IP and publish it to a Slack channel
 
-See code comments for tips
+I wrote this script to live on my IoT devices for a quick hack.  It's simple and for my one primary Raspberry Pi.  I expect this will get more complicated as my use cases grow.
 
-Need pyton, sqlite3, Slack API for bot.
+Enjoy!
