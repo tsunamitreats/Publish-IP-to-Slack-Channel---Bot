@@ -5,6 +5,7 @@ import sqlite3
 
 #This program requires you to get a slack API and make a sqlite3 database with the following settings: 
 #	Sqlite3, db=ip, table=ip, columns=(name UNIQUE, ip text).
+#	Then write a record IP: c.execute("INSERT INTO ip VALUES ('IP','12345')")
 
 slackAPI = 'yourAPI'
 slackRoom = '#yourchannel'
